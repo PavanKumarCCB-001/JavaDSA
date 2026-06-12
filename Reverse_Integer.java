@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Reverse_Integer {
 
-	int count(int n)
+	int REV(int n)
 	{
 		int N,r=0;
 		for(N = n; N != 0; N /= 10)
@@ -22,5 +22,5 @@ public class Reverse_Integer {
 		int n = ob.nextInt();
 		
 		Reverse_Integer obj = new Reverse_Integer();
-		System.out.println("Reverse of a given No. is "+obj.count(n));
+		System.out.println("Reverse of a given No. is "+obj.REV(n));
 		ob.close();} }
