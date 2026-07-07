@@ -7,13 +7,18 @@ public class Bubble_sort {
 		int len = arr.length;
 		
 		for(int i=0; i<len-1; i++) {
+			boolean swapped = false;
+			
 			for(int j=0; j<len-i-1; j++) {
 				if(arr[j] > arr[j+1])
 				{
 					int temp = arr[j];
 					arr[j] = arr[j+1];
 					arr[j+1] = temp;
-				} } }
+					
+					swapped = true; 	} } 
+		if(!swapped)	// Executed if the Array is given in Sorted Order (Asc).
+			break; } 
 		System.out.println("Sorted Array is:");
 		for(int a : arr) System.out.print(a+" "); 	}
 
@@ -30,4 +35,4 @@ public class Bubble_sort {
 		
 		new Bubble_sort(arr);
 		
-		ob.close();  }  } 
+		ob.close();  } }
