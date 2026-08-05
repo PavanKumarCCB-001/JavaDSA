@@ -1,22 +1,32 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
 
-        List<Integer> ls = new ArrayList<>(); // Stores the Missing Element.
+        List<Integer> ls = new ArrayList<>();   // Stores the Missing Element.
 
-        // Finding the Smallest & Largest with Arrays.stream()
-        int smallest = Arrays.stream(nums).min().getAsInt();
-        int largest = Arrays.stream(nums).max().getAsInt();
+        int smallest = nums[0], largest = nums[0];
 
-        HashSet<Integer> hs = new HashSet<>();
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < smallest)
+                smallest = nums[i]; // Finds Smallest
 
-        for (int num : nums) // Adding Array Elements into HashSet
-            hs.add(num);
-
-        for (int i = smallest + 1; i < largest; i++) {
-            if (!hs.contains(i))    // 
-                ls.add(i);
+            else if (nums[i] > largest)
+                largest = nums[i]; // Finds Largest
         }
 
+        for (int i = smallest + 1; i < largest; i++) { // Iterates through range
+
+            boolean found = false; // Assuming element as not found.
+
+            for (int j = 0; j < nums.length; j++) { // Traverses through Array
+                if (i == nums[j]) {
+                    found = true; // If found then, we break loop
+                    break;
+                }
+            }
+            if (!found) {
+                ls.add(i); // Adding into List if not found.
+            }
+        }
         return ls; // Returning list.
     }
 }
