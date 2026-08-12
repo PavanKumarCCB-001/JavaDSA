@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3731-find-missing-elements) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -35,5 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
