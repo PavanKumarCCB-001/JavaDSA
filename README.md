@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0217-contains-duplicate) |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
