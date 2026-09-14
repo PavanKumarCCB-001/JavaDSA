@@ -1,14 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer, Integer> hm = new HashMap<>();
-        int res = 0;
-        for (int num : nums)
-            hm.put(num, hm.getOrDefault(num, 0) + 1); // Frequency Counting.
 
-        for (Map.Entry<Integer, Integer> e : hm.entrySet()) {
-            if (e.getValue() > nums.length / 2)
-                res = e.getKey(); // Storing Majority Element
+        int c = 1, ele = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            if (c == 0)
+                ele = nums[i];
+            if (nums[i] == ele)
+                c++;
+            else
+                c--;
         }
-        return res;
+    return ele;
     }
 }
