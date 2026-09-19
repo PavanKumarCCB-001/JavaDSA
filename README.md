@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
