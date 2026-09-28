@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
