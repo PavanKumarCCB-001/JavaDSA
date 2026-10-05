@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0856-score-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
