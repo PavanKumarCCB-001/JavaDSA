@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3870-count-commas-in-range) |
 ## Recursion
