@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
