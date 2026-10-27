@@ -6,14 +6,10 @@ class Solution {
         for (int i = 0; i < m; i++) {
 
             StringBuilder sb = new StringBuilder(); // For every Row
-            for (int j = 0; j < n; j++) {
-                if (i == 0) // For Top Row
-                    sb.append('.');
-                else if (j == n - 1) // For the End Column
-                    sb.append('.');
-                else
-                    sb.append('#');
-            }
+
+            for (int j = 0; j < n; j++)
+                sb.append(i == 0 || j == n - 1 ? '.' : '#');
+
             res[i] = sb.toString();
         }
         return res;
