@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
