@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3731-find-missing-elements) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
