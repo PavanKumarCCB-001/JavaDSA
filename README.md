@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
