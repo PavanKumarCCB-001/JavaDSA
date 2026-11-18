@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2409-count-days-spent-together](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/PavanKumarCCB-001/JavaDSA/tree/master/3941-password-strength) |
 ## Backtracking
