@@ -10,18 +10,12 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        if (head == null)
-            return null;
-        ListNode temp = head;
-        int len = 0, c = 1;
-        while (temp != null) {
-            len++;
-            temp = temp.next;
+        // Using the Tortoise & Hare Algo
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        while (head != null && (c < (len / 2) + 1)) {
-            head = head.next;
-            c++;
-        }
-        return head;
+        return slow;
     }
 }
